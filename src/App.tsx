@@ -29,7 +29,7 @@ function App() {
                             <header className="app-header">
                                 <div className="header-left">
                                     <div className="logo-container">
-                                        <img src="/logo.png" alt="Proof of Sign Logo" className="app-logo" />
+                                        <img src="logo.png" alt="Proof of Sign Logo" className="app-logo" />
                                         <h1>Proof of Sign</h1>
                                     </div>
                                     <Navigation />
